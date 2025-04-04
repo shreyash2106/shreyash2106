@@ -4,7 +4,7 @@
 - 🎓 Master's student in Computer Science at Purdue University
 - 🎓 Bachelors from UC Berkeley in Electrical Engineering and Computer Science. Minor in Data Science.
 - 🤖 Passionate about AI, ML, and robotics — with a focus on LLMs, RAG pipelines, and autonomous systems  
-- 💼 Machine Learning Intern @ AWS AI (AutoGluon team) — Summer 2024  
+- 💼 Machine Learning Intern @ AWS AI (AutoGluon team) — Summer 2024, Summer 2023  
 - 🧑‍🔬 Former intern @ Amazon (Telemetry team), Hewlett Packard Enterprise (Greenlake HPC)  
 - 💻 Building secure, scalable systems across ML, RAG, and high-performance computing domains  
 - ⚽🎸 Love playing soccer and guitar in my downtime  
