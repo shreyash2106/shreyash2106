@@ -13,7 +13,7 @@
 - 🤝 Multi-agent LLM systems that collaborate for complex decision-making (e.g., chess strategy via structured debates)  
 - 📦 Creating plug-and-play RAG packages for document pipelines (e.g., [AutoGluon RAG](https://github.com/autogluon/autogluon-rag/))  
 - 📊 Building dashboards to benchmark and visualize ML model performance across datasets  
-- 🚁 Finetuning LLMs for drone path planning and temporal logic frameworks. Paper accepted at ICRA 2025 [arXiv](https://arxiv.org/abs/2409.19471)
+- 🚁 Finetuning LLMs for drone path planning and temporal logic frameworks. Paper accepted at ICRA 2025 [arXiv Paper](https://arxiv.org/abs/2409.19471)
 
   
 ## 🌐 Socials:
