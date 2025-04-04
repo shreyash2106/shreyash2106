@@ -5,15 +5,15 @@
 - 🎓 Bachelors from UC Berkeley in Electrical Engineering and Computer Science. Minor in Data Science.
 - 🤖 Passionate about AI, ML, and robotics — with a focus on LLMs, RAG pipelines, and autonomous systems  
 - 💼 Machine Learning Intern @ AWS AI (AutoGluon team) — Summer 2024, Summer 2023  
-- 🧑‍🔬 Former intern @ Amazon (Telemetry team), Hewlett Packard Enterprise (Greenlake HPC)  
+- 🧑‍🔬 Former intern @ Amazon (Telemetry team), Hewlett Packard Enterprise (Greenlake HPC) - Summer 2022 
 - 💻 Building secure, scalable systems across ML, RAG, and high-performance computing domains  
-- ⚽🎸 Love playing soccer and guitar in my downtime  
+- ⚽🎸 Love playing soccer and guitar in my downtime. Generally, a music and sports fanatic!
 
 ## What I'm Working/Worked On
+- 🏭  Autonomous Agents for Industry-Specific AI Solutions
 - 🤝 Multi-agent LLM systems that collaborate for complex decision-making (e.g., chess strategy via structured debates)  
-- 📦 Creating plug-and-play RAG packages for document pipelines (e.g., [AutoGluon RAG](https://github.com/autogluon/autogluon-rag/))  
-- 📊 Building dashboards to benchmark and visualize ML model performance across datasets  
-- 🚁 Finetuning LLMs for drone path planning using signal temporal logic. Paper accepted at ICRA 2025 - SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models ([arXiv Paper](https://arxiv.org/abs/2409.19471).
+- 📦 Creating plug-and-play RAG packages for document pipelines ([AutoGluon RAG](https://github.com/autogluon/autogluon-rag/))    
+- 🚁 Finetuning LLMs for drone path planning using signal temporal logic. Paper accepted at ICRA 2025 - SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models ([arXiv Paper](https://arxiv.org/abs/2409.19471)).
 
   
 ## 🌐 Socials:
