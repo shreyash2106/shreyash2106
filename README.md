@@ -9,11 +9,11 @@
 - 💻 Building secure, scalable systems across ML, RAG, and high-performance computing domains  
 - ⚽🎸 Love playing soccer and guitar in my downtime  
 
-## What I'm Working On
+## What I'm Working/Worked On
 - 🤝 Multi-agent LLM systems that collaborate for complex decision-making (e.g., chess strategy via structured debates)  
 - 📦 Creating plug-and-play RAG packages for document pipelines (e.g., [AutoGluon RAG](https://github.com/autogluon/autogluon-rag/))  
 - 📊 Building dashboards to benchmark and visualize ML model performance across datasets  
-- 🚁 Finetuning LLMs for drone path planning and temporal logic frameworks
+- 🚁 Finetuning LLMs for drone path planning and temporal logic frameworks. Paper accepted at ICRA 2025 [arXiv](https://arxiv.org/abs/2409.19471)
 
   
 ## 🌐 Socials:
