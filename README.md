@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shreyash Iyengar
 
-<!--
-**shreyash2106/shreyash2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Master's student in Computer Science at Purdue University (GPA: 3.9)  
+- 🤖 Passionate about AI, ML, and robotics — with a focus on LLMs, RAG pipelines, and autonomous systems  
+- 💼 Machine Learning Intern @ AWS AI (AutoGluon team) — Summer 2024  
+- 🧑‍🔬 Former intern @ Amazon (Telemetry team), Hewlett Packard Enterprise (Greenlake HPC)  
+- 💻 Building secure, scalable systems across ML, RAG, and high-performance computing domains  
+- ⚽🎸 Love playing soccer and guitar in my downtime  
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 🤝 Multi-agent LLM systems that collaborate for complex decision-making (e.g., chess strategy via structured debates)  
+- 📦 Creating plug-and-play RAG packages for document pipelines (e.g., [AutoGluon RAG](https://github.com/autogluon/autogluon-rag/))  
+- 📊 Building dashboards to benchmark and visualize ML model performance across datasets  
+- 🚁 Finetuning LLMs for drone path planning and temporal logic frameworks  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- 📧 Email: shreyash.sridhar@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shreyashsridhariyengar/)  
